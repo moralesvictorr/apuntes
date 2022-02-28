@@ -2,7 +2,7 @@
 
 ----------------
 
-![Regla CSS](./images/CSS_Regla.png "reglaCss") 
+![Regla CSS](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/CSSRegla.PNG "reglaCss") 
 
 ## **- Etiquetas globales (p,a,h1,...)**
 En HTML 
