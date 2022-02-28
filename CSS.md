@@ -110,7 +110,10 @@ Accedemos a ella así en CSS
 }
 ```
 -----
-
+## **Modelo de Caja**
+![ Modelo de Caja](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/boxStyleCss.PNG "boxModel") 
+![ Modelo de Caja Desglozado](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/boxStyleCss2.PNG "boxModel2") 
+![ Ejemplo del Margin](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/marginExample.PNG "marginExample") 
 ## **HERENCIA:**
 
 ### **Inherit**
