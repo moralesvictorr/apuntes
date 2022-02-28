@@ -40,6 +40,23 @@ Accedemos a ella así en CSS
     ...
 }
 ```
+
+## **Selector Universal**
+```css
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+```
+Resetear valores por defecto de padding, margin con el Selector Universal
+```css
+* {
+    ...
+}
+```
+
 ## **- PseudoClases (:pseudoclase)**
 Define el estilo de un estado especial de un elemento.
 
