@@ -165,3 +165,4 @@ Ejemplo en CSS
 * No se recomienda el uso de !important (Porque puede ocasionar problemas graves de especificidad)
 
 ## **Combinadores**
+![ Combinadores](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/Combinadores.PNG "combinadores") 
