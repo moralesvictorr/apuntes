@@ -166,3 +166,10 @@ Ejemplo en CSS
 
 ## **Combinadores**
 ![ Combinadores](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/Combinadores.PNG "combinadores") 
+Ejemplo CSS (Colorea todos los P que estén cerca de un H2)
+```css
+h2 +p {
+    color: red;
+}
+```
+
