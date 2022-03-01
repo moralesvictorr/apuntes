@@ -171,5 +171,9 @@ Ejemplo CSS (Colorea todos los P que estén inmediatamente después de un H2)
 h2 +p {
     color: red;
 }
+
+Ejemplo Gráfico:
+![ CombinadoresEjem](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/combinadoresEjem.PNG "combinadoresEjem") 
+
 ```
 
