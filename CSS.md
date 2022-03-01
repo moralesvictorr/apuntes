@@ -132,6 +132,7 @@ Accedemos a ella así en CSS
 ![ Modelo de Caja](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/boxStyleCss.PNG "boxModel") 
 ![ Modelo de Caja Desglozado](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/boxStyleCss2.PNG "boxModel2") 
 ![ Ejemplo del Margin](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/marginExample.PNG "marginExample") 
+
 ## **HERENCIA:**
 
 ### **Inherit**
@@ -143,3 +144,6 @@ Este valor pertenece a la especificación CSS3 y cuando aplicamos a una propieda
 
 ### **Upset** 
 Este valor unset es una combinación entre inherit y initial, cuando utilizamos este valor en una propiedad esta tratara de heredar el valor de su elemento padre si este esta disponible, de no ser así este valor colocará el valor de la propiedad en su valor inicial, como si usáramos inherit e initial juntos.
+
+## **Especificidad de los Selectores en CSS**
+![ Epecificidad](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/especificidadCSS.PNG "epecificidad") 
