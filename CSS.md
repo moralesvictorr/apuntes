@@ -147,3 +147,21 @@ Este valor unset es una combinación entre inherit y initial, cuando utilizamos 
 
 ## **Especificidad de los Selectores en CSS**
 ![ Epecificidad](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/especificidadCSS.PNG "epecificidad") 
+
+Puedes usar estos selectores dentro de las Etiquetas de HTML para luego darle estilo a etiquetas especificas en CSS.
+Ejemplo en HTML 
+```html
+<header class="page-header"> </header>
+```
+Ejemplo en CSS
+```css
+.page-header {
+    backgroung-color: #14a4a4
+}
+```
+
+*No se recomienda el uso excesivo de ID
+*No se recomiendan los estilos embebidos (Tienen mayor especificidad)
+*No se recomienda el uso de !important (Porque puede ocasionar problemas graves de especificidad)
+
+## **Combinadores**
