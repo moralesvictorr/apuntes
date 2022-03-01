@@ -160,8 +160,8 @@ Ejemplo en CSS
 }
 ```
 
-*No se recomienda el uso excesivo de ID
-*No se recomiendan los estilos embebidos (Tienen mayor especificidad)
-*No se recomienda el uso de !important (Porque puede ocasionar problemas graves de especificidad)
+* No se recomienda el uso excesivo de ID
+* No se recomiendan los estilos embebidos (Tienen mayor especificidad)
+* No se recomienda el uso de !important (Porque puede ocasionar problemas graves de especificidad)
 
 ## **Combinadores**
