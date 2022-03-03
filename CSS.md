@@ -175,6 +175,7 @@ Ejemplo en CSS
     backgroung-color: #14a4a4
 }
 ```
+## Recomendaciones
 
 * No se recomienda el uso excesivo de ID
 * No se recomiendan los estilos embebidos (Tienen mayor especificidad)
@@ -211,6 +212,7 @@ Puede Usarse:
 * **Rem** (Root Element): Representa el tamaño del font-size del elemento raiz.
 * **Longitudes de porcentaje de ViewPort** : VH (1/100 Altura del ViewPort),Vw (1/100 Ancho del ViewPort), Vmin (1/100 del valor mínimo de la altura y ancho del                         ViewPort), Vmax (1/100 del valor máximo de la altura y ancho del ViewPort)
 *  **%** (Porcentaje)
+
 Entre otros...
               
 Ejemplo de medida EM vs Rem:
