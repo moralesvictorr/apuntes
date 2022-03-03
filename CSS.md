@@ -177,11 +177,11 @@ Ejemplo Gráfico:
 
 ## **Medidas:**
 
-## **1) Absolutas**
+### **1) Absolutas**
 Son unidades que están completamente definidas. Esto quiere decir, que su valor no depende de otro valor de referencia. 
 Puede usarse: PX(Pixeles),CM(Centímetros), MM (Milímetros), PT(Puntos), IN(Pulgadas),... Entre otros.
 
-## **2) Relativas**
+### **2) Relativas**
 Son unidades variables. Esto quiere decir, que su valor depende del tamaño del dispositivo, y/o, del valor heredado.
 Puede Usarse: Em(Element): Representa el valor heredado del font-size del elemento.
               Rem(Root Element): Representa el tamaño del font-size del elemento raiz.
