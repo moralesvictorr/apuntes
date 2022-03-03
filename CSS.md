@@ -221,7 +221,16 @@ Ejemplo de medida EM vs Rem:
 Ejemplo de ViewPort:
 ![ viewPort](https://www.yunbitsoftware.com/blog/wp-content/uploads/2017/06/imagen2-vh.png "viewPort") 
 ----------
-
-Se recomienda el uso de Medidas Relativas para cumplir con Responsive Design y Mobile First; solo usar medidas absolutas en casos concretos.
-              
+## Recomendaciones:
+* Se recomienda el uso de Medidas Relativas para cumplir con Responsive Design y Mobile First; solo usar medidas absolutas en casos concretos.
+* Se recomienda (Personal) usar medidas REM, truco para usar Rem con facilidad:
+```css
+html {
+    font-size: 62.5%;
+    }
+```
+Ahora con este cambio 1 REM es igual a 10px, y tendrás más facilidad para usar REM con las etiquetas por defecto de HTML.
+10 px = 1 REM
+15px  = 1.5 REM
+20px  = 2 REM
 
