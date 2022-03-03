@@ -1,7 +1,7 @@
 # Apuntes de CSS - @moralesvictorr
 
 ----------------
-##¿Qué es CSS?##
+##¿Qué es CSS?
 Las siglas en ingés son: Cascading Style Sheets, es decir, Hojas de Estilo en Cascada. 
 En pocas palabras es un lenguaje que maneja el diseño y la presentación de una página web; funciona en conjunto con HTML.
 Con CSS abarcamos opciones relativas a fuentes, colores, márgenes, líneas, altura, anchura, imágenes de fondo, entre otros.
