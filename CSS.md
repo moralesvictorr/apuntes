@@ -161,7 +161,7 @@ Este valor pertenece a la especificación CSS3 y cuando aplicamos a una propieda
 ### **Upset** 
 Este valor unset es una combinación entre inherit y initial, cuando utilizamos este valor en una propiedad esta tratara de heredar el valor de su elemento padre si este esta disponible, de no ser así este valor colocará el valor de la propiedad en su valor inicial, como si usáramos inherit e initial juntos.
 
-## **Especificidad de los Selectores en CSS**
+# **Especificidad de los Selectores en CSS**
 ![ Epecificidad](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/especificidadCSS.PNG "epecificidad") 
 
 Puedes usar estos selectores dentro de las Etiquetas de HTML para luego darle estilo a etiquetas especificas en CSS.
@@ -181,7 +181,7 @@ Ejemplo en CSS
 * No se recomiendan los estilos embebidos (Tienen mayor especificidad)
 * No se recomienda el uso de !important (Porque puede ocasionar problemas graves de especificidad)
 
-## **Combinadores**
+# **Combinadores**
 ![ Combinadores](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/Combinadores.PNG "combinadores") 
 
 A continuación: Ejemplo CSS (Colorea todos los P que estén inmediatamente después de un H2) 
@@ -235,5 +235,5 @@ Ahora con este cambio 1 REM es igual a 10px, y tendrás más facilidad para usar
 15px  = 1.5 REM
 20px  = 2 REM
 
-## Posición
+# Posición
 
