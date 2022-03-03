@@ -11,6 +11,8 @@ Se les denomina hojas de estilo «en cascada» porque puedes tener varias hojas 
 ## Estructura:
 ![Regla CSS](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/CSSRegla.PNG "reglaCss") 
 
+Básicamente usamos un selector (Son los que están detallados justo abajo), e introducimos órdenes de estilo entre llaves({}).
+
 ## **- Etiquetas globales (p,a,h1,...)**
 En HTML 
 
