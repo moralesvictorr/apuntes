@@ -1,7 +1,14 @@
 # Apuntes de CSS - @moralesvictorr
 
 ----------------
+##¿Qué es CSS?##
+Las siglas en ingés son: Cascading Style Sheets, es decir, Hojas de Estilo en Cascada. 
+En pocas palabras es un lenguaje que maneja el diseño y la presentación de una página web; funciona en conjunto con HTML.
+Con CSS abarcamos opciones relativas a fuentes, colores, márgenes, líneas, altura, anchura, imágenes de fondo, entre otros.
 
+Se les denomina hojas de estilo «en cascada» porque puedes tener varias hojas y una de ellas con las propiedades heredadas (o «en cascada») de otras.
+
+## Estructura:
 ![Regla CSS](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/CSSRegla.PNG "reglaCss") 
 
 ## **- Etiquetas globales (p,a,h1,...)**
