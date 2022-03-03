@@ -217,8 +217,9 @@ Puede Usarse:
 Entre otros...
               
 Ejemplo de medida EM vs Rem:
----------
+![ emVsRem](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/emVsRem.PNG "emVsRem") 
 Ejemplo de ViewPort:
+![ viewPort](https://www.yunbitsoftware.com/blog/wp-content/uploads/2017/06/imagen2-vh.png "viewPort") 
 ----------
 
 Se recomienda el uso de Medidas Relativas para cumplir con Responsive Design y Mobile First; solo usar medidas absolutas en casos concretos.
