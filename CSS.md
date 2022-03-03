@@ -13,7 +13,7 @@ Se les denomina hojas de estilo «en cascada» porque puedes tener varias hojas 
 
 Básicamente usamos un selector (Son los que están detallados justo abajo), e introducimos órdenes de estilo entre llaves({ }).
 
-## **Tipos de Selectores:**
+# **Tipos de Selectores:**
 ### **- Etiquetas globales (p,a,h1,...)**
 Son las etiquetas globales que ya usabamos en HTML
 HTML:
@@ -143,13 +143,13 @@ Accedemos a ella así en CSS
 }
 ```
 -----
-## **Modelo de Caja**
+# **Modelo de Caja**
 Así se le llama al modelo en el que está basado en CSS, todo dentro de cajas: 
 ![ Modelo de Caja](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/boxStyleCss.PNG "boxModel") 
 ![ Modelo de Caja Desglozado](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/boxStyleCss2.PNG "boxModel2") 
 ![ Ejemplo del Margin](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/marginExample.PNG "marginExample") 
 
-## **HERENCIA:**
+# **HERENCIA:**
 
 ### **Inherit**
  Este es un valor por medio de una keyword que especifica que, a la propiedad que se la apliquemos debe de heredar los valores de su elemento padre. Podemos decir que la palabra Inherit significa “Usa el valor de mi padre”, si el elemento padre no tiene definido dicho valor el navegador seguirá el DOM hasta que encuentre un elemento superior que lo contenga, y en ultima instancia de no tenerlo ningún elemento superior se aplicara el valor por defecto.
@@ -193,7 +193,7 @@ h2 +p {
 Ejemplo Gráfico:
 ![ CombinadoresEjem](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/combinadoresEjem.PNG "combinadoresEjem") 
 
-## **Medidas:**
+# **Medidas:**
 
 ### **1) Absolutas**
 Son unidades que están completamente definidas. Esto quiere decir, que su valor no depende de otro valor de referencia. 
@@ -234,4 +234,6 @@ Ahora con este cambio 1 REM es igual a 10px, y tendrás más facilidad para usar
 10 px = 1 REM
 15px  = 1.5 REM
 20px  = 2 REM
+
+## Posición
 
