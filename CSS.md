@@ -230,6 +230,7 @@ html {
     }
 ```
 Ahora con este cambio 1 REM es igual a 10px, y tendrás más facilidad para usar REM con las etiquetas por defecto de HTML.
+
 10 px = 1 REM
 15px  = 1.5 REM
 20px  = 2 REM
