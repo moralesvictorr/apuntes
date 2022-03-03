@@ -13,9 +13,10 @@ Se les denomina hojas de estilo «en cascada» porque puedes tener varias hojas 
 
 Básicamente usamos un selector (Son los que están detallados justo abajo), e introducimos órdenes de estilo entre llaves({}).
 
-## **- Etiquetas globales (p,a,h1,...)**
-En HTML 
-
+## **Tipos de Selectores:**
+### **- Etiquetas globales (p,a,h1,...)**
+Son las etiquetas globales que ya usabamos en HTML
+HTML:
 ```html
 <p>"Soy un parrafo"</p>
 ```
@@ -25,9 +26,9 @@ p{
     ...
 }
 ```
-## **- Clases (.class)**
-En HTML 
-
+### **- Clases (.class)**
+Se implementan así en HTML:
+Se usa la palabra reservada "class" dentro de la apertura de la etiqueta en HTML.
 ```html
 <p class="parrafo">"Soy un parrafo"</p>
 ```
@@ -37,8 +38,9 @@ Accedemos a ella así en CSS
     ...
 }
 ```
-## **- ID (#id)**
-En HTML 
+### **- ID (#id)**
+Se implementan así en HTML:
+Se usa la palabra reservada "id" dentro de la apertura de la etiqueta en HTML.
 
 ```html
 <p id="parrafo">"Soy un parrafo"</p>
@@ -49,15 +51,19 @@ Accedemos a ella así en CSS
     ...
 }
 ```
+## ¿Las etiquetas en HTML pueden tener clase e identificador al mismo tiempo? 
+La respuesta es **SI**.
 
 ## **Selector Universal**
+Este selector, accede a todos los parámetros generales por defecto.
 ```css
 * {
     ...
 }
 ```
 
-Resetear valores por defecto de padding, margin con el Selector Universal
+## Resetear valores por defecto de padding, margin con el Selector Universal
+Para que no tengamos problemas de Responsive Design (Diseño responsivo, adaptable a cualquier tipo de pantalla)
 ```css
 * {
     box-sizing: border-box;
@@ -138,6 +144,7 @@ Accedemos a ella así en CSS
 ```
 -----
 ## **Modelo de Caja**
+Así se le llama al modelo en el que está basado en CSS, todo dentro de cajas: 
 ![ Modelo de Caja](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/boxStyleCss.PNG "boxModel") 
 ![ Modelo de Caja Desglozado](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/boxStyleCss2.PNG "boxModel2") 
 ![ Ejemplo del Margin](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/marginExample.PNG "marginExample") 
@@ -202,5 +209,7 @@ Ejemplo de medida EM vs Rem:
 ---------
 Ejemplo de ViewPort:
 ----------
+
+Se recomienda el uso de Medidas Relativas para cumplir con Responsive Design y Mobile First; solo usar medidas absoltas en casos concretos.
               
 
