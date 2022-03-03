@@ -11,7 +11,7 @@ Se les denomina hojas de estilo «en cascada» porque puedes tener varias hojas 
 ## Estructura:
 ![Regla CSS](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/CSSRegla.PNG "reglaCss") 
 
-Básicamente usamos un selector (Son los que están detallados justo abajo), e introducimos órdenes de estilo entre llaves({}).
+Básicamente usamos un selector (Son los que están detallados justo abajo), e introducimos órdenes de estilo entre llaves({ }).
 
 ## **Tipos de Selectores:**
 ### **- Etiquetas globales (p,a,h1,...)**
@@ -182,7 +182,8 @@ Ejemplo en CSS
 
 ## **Combinadores**
 ![ Combinadores](https://github.com/moralesvictorr/apuntesDesarrolloWeb/blob/master/images/Combinadores.PNG "combinadores") 
-Ejemplo CSS (Colorea todos los P que estén inmediatamente después de un H2)
+
+A continuación: Ejemplo CSS (Colorea todos los P que estén inmediatamente después de un H2) 
 ```css
 h2 +p {
     color: red;
@@ -210,6 +211,6 @@ Ejemplo de medida EM vs Rem:
 Ejemplo de ViewPort:
 ----------
 
-Se recomienda el uso de Medidas Relativas para cumplir con Responsive Design y Mobile First; solo usar medidas absoltas en casos concretos.
+Se recomienda el uso de Medidas Relativas para cumplir con Responsive Design y Mobile First; solo usar medidas absolutas en casos concretos.
               
 
