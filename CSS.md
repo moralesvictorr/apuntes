@@ -196,12 +196,13 @@ Ejemplo Gráfico:
 
 ### **1) Absolutas**
 Son unidades que están completamente definidas. Esto quiere decir, que su valor no depende de otro valor de referencia. 
-Puede usarse: * PX(Pixeles)
-              * CM(Centímetros)
-              * MM (Milímetros)
-              * PT(Puntos)
-              * IN(Pulgadas)
-              Entre otros...
+Puede usarse: 
+* PX(Pixeles)
+* CM(Centímetros)
+* MM (Milímetros)
+* PT(Puntos)
+* IN(Pulgadas)
+Entre otros...
 
 ### **2) Relativas**
 Son unidades variables. Esto quiere decir, que su valor depende del tamaño del dispositivo, y/o, del valor heredado.
@@ -209,7 +210,7 @@ Puede Usarse:
 * **Em** (Element): Representa el valor heredado del font-size del elemento.
 * **Rem** (Root Element): Representa el tamaño del font-size del elemento raiz.
 * **Longitudes de porcentaje de ViewPort** : VH (1/100 Altura del ViewPort),Vw (1/100 Ancho del ViewPort), Vmin (1/100 del valor mínimo de la altura y ancho del                         ViewPort), Vmax (1/100 del valor máximo de la altura y ancho del ViewPort)
-* *  **%** (Porcentaje)
+*  **%** (Porcentaje)
 Entre otros...
               
 Ejemplo de medida EM vs Rem:
