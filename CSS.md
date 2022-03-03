@@ -54,7 +54,7 @@ Accedemos a ella así en CSS
 ## ¿Las etiquetas en HTML pueden tener clase e identificador al mismo tiempo? 
 La respuesta es **SI**.
 
-## **Selector Universal**
+## **- Selector Universal**
 Este selector, accede a todos los parámetros generales por defecto.
 ```css
 * {
