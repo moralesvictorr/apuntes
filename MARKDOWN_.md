@@ -1,3 +1,4 @@
+Edita al archivo, o visualiza el codigo para ver cómo se hace en markdown
 <!-- headings -->
 # Heading 1
 ## Heading 2
@@ -92,4 +93,4 @@ const test = (str) => str + 'test';
 * [x] task4
 
 <!-- Mentiosn -->
-@faztweb :+1: :smile:
+realizaod por: @faztweb :+1: :smile:
